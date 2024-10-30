@@ -1,4 +1,4 @@
-!(https://github.com/rohit211-s/Comprehensive-Bank-Loan-Analysis-SQL-Power-BI-Tableau-Insights/blob/main/assets/bank.jpg)
+![Screenshot 2024-06-17 112434](https://github.com/rohit211-s/Comprehensive-Bank-Loan-Analysis-SQL-Power-BI-Tableau-Insights/blob/main/assets/bank.jpg)
 
 # Comprehensive Bank Loan Analysis: SQL, Power BI & Tableau Insights
 
