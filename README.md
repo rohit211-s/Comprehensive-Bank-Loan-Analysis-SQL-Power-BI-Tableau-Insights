@@ -124,7 +124,7 @@ Our approach to analyzing the bank loan data involved a multi-step, systematic p
 ![overview](https://github.com/rohit211-s/Comprehensive-Bank-Loan-Analysis-SQL-Power-BI-Tableau-Insights/blob/main/assets/overview.jpg)
 
 ### Detailed Insights Interface
-![details](https://github.com/rohit211-s/Comprehensive-Bank-Loan-Analysis-SQL-Power-BI-Tableau-Insights/blob/main/assets/)
+![details](https://github.com/rohit211-s/Comprehensive-Bank-Loan-Analysis-SQL-Power-BI-Tableau-Insights/blob/main/assets/details.jpg)
 
 ---
 
